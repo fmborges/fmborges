@@ -1,7 +1,7 @@
 Hello, ✌
 <hr>
 
-Meu nome e Filipe e sou analista de suporte PL, Estou começando na área de desenvolvimento .
+Meu nome e Filipe! sou analista de suporte PL, Estou começando na área de desenvolvimento .
 Aqui mostrarei meus projetos em Java.
 
 <a href="#">
